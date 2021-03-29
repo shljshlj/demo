@@ -1,14 +1,204 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    {
+      "id": 1,
+      "email": "Jovani_Rolfson24@hotmail.com",
+      "fullName": "Mrs. Micheal Schroeder",
+      "avatar": "https://cdn.fakercloud.com/avatars/ryhanhassan_128.jpg",
+      "city": "West Seneca",
+      "country": "Tokelau"
+    },
+    {
+      "id": 2,
+      "email": "Desiree.Mann@hotmail.com",
+      "fullName": "Wendell Pollich",
+      "avatar": "https://cdn.fakercloud.com/avatars/gaborenton_128.jpg",
+      "city": "Newport News",
+      "country": "Norway"
+    },
+    {
+      "id": 3,
+      "email": "Geovanni44@hotmail.com",
+      "fullName": "Warren Schmitt DDS",
+      "avatar": "https://cdn.fakercloud.com/avatars/mikebeecham_128.jpg",
+      "city": "Tulsa",
+      "country": "Tuvalu"
+    },
+    {
+      "id": 4,
+      "email": "Gustave_Wiza41@yahoo.com",
+      "fullName": "Sabrina O'Hara",
+      "avatar": "https://cdn.fakercloud.com/avatars/zforrester_128.jpg",
+      "city": "Novato",
+      "country": "Comoros"
+    },
+    {
+      "id": 5,
+      "email": "Gene46@gmail.com",
+      "fullName": "Elaine Kerluke",
+      "avatar": "https://cdn.fakercloud.com/avatars/stalewine_128.jpg",
+      "city": "St. Clair Shores",
+      "country": "Nauru"
+    },
+    {
+      "id": 6,
+      "email": "Celine26@yahoo.com",
+      "fullName": "Mr. Earl Wehner",
+      "avatar": "https://cdn.fakercloud.com/avatars/brenton_clarke_128.jpg",
+      "city": "Lakeville",
+      "country": "Spain"
+    },
+    {
+      "id": 7,
+      "email": "Alysa20@yahoo.com",
+      "fullName": "Jeffrey Klocko",
+      "avatar": "https://cdn.fakercloud.com/avatars/jomarmen_128.jpg",
+      "city": "Delray Beach",
+      "country": "Jordan"
+    },
+    {
+      "id": 8,
+      "email": "Dimitri.Sanford52@hotmail.com",
+      "fullName": "Darla Bergstrom",
+      "avatar": "https://cdn.fakercloud.com/avatars/coreyweb_128.jpg",
+      "city": "Fort Myers",
+      "country": "Dominican Republic"
+    },
+    {
+      "id": 9,
+      "email": "Monserrat_Rosenbaum@yahoo.com",
+      "fullName": "Kara Heidenreich",
+      "avatar": "https://cdn.fakercloud.com/avatars/victorDubugras_128.jpg",
+      "city": "Washington",
+      "country": "Trinidad and Tobago"
+    },
+    {
+      "id": 10,
+      "email": "Aletha17@hotmail.com",
+      "fullName": "Alex Dare",
+      "avatar": "https://cdn.fakercloud.com/avatars/mirfanqureshi_128.jpg",
+      "city": "Hartford",
+      "country": "Singapore"
+    },
+    {
+      "id": 11,
+      "email": "Darrick38@yahoo.com",
+      "fullName": "Ms. Willis Lebsack",
+      "avatar": "https://cdn.fakercloud.com/avatars/flexrs_128.jpg",
+      "city": "Meriden",
+      "country": "Turkey"
+    },
+    {
+      "id": 12,
+      "email": "Yvonne.OKon@yahoo.com",
+      "fullName": "Vernon Hackett DVM",
+      "avatar": "https://cdn.fakercloud.com/avatars/oskarlevinson_128.jpg",
+      "city": "Homestead",
+      "country": "Iceland"
+    },
+    {
+      "id": 13,
+      "email": "Kaela69@yahoo.com",
+      "fullName": "Sherri Bogisich",
+      "avatar": "https://cdn.fakercloud.com/avatars/oskarlevinson_128.jpg",
+      "city": "Springfield",
+      "country": "French Southern Territories"
+    },
+    {
+      "id": 14,
+      "email": "Garrett.Mertz89@hotmail.com",
+      "fullName": "Bryant Mueller",
+      "avatar": "https://cdn.fakercloud.com/avatars/j_drake__128.jpg",
+      "city": "Brooklyn Park",
+      "country": "Trinidad and Tobago"
+    },
+    {
+      "id": 15,
+      "email": "Mozell.Runolfsson72@yahoo.com",
+      "fullName": "Fred Casper",
+      "avatar": "https://cdn.fakercloud.com/avatars/croakx_128.jpg",
+      "city": "Brandon",
+      "country": "Luxembourg"
+    },
+    {
+      "id": 16,
+      "email": "Lyda11@gmail.com",
+      "fullName": "Hannah Fritsch",
+      "avatar": "https://cdn.fakercloud.com/avatars/adamsxu_128.jpg",
+      "city": "Gary",
+      "country": "Burkina Faso"
+    },
+    {
+      "id": 17,
+      "email": "Rod2@yahoo.com",
+      "fullName": "Wilbur Hoppe",
+      "avatar": "https://cdn.fakercloud.com/avatars/wtrsld_128.jpg",
+      "city": "St. Louis Park",
+      "country": "Saint Vincent and the Grenadines"
+    },
+    {
+      "id": 18,
+      "email": "Rebeka38@yahoo.com",
+      "fullName": "Brittany Kulas Jr.",
+      "avatar": "https://cdn.fakercloud.com/avatars/doooon_128.jpg",
+      "city": "Madera",
+      "country": "Hungary"
+    },
+    {
+      "id": 19,
+      "email": "Donna.Durgan@hotmail.com",
+      "fullName": "Sheldon Kuhn IV",
+      "avatar": "https://cdn.fakercloud.com/avatars/faisalabid_128.jpg",
+      "city": "Ocala",
+      "country": "Ecuador"
+    },
+    {
+      "id": 20,
+      "email": "Scot84@gmail.com",
+      "fullName": "Lorene Corkery",
+      "avatar": "https://cdn.fakercloud.com/avatars/hellofeverrrr_128.jpg",
+      "city": "Burke",
+      "country": "Cocos (Keeling) Islands"
+    },
+    {
+      "id": 21,
+      "email": "Rod90@yahoo.com",
+      "fullName": "Rogelio Wilkinson",
+      "avatar": "https://cdn.fakercloud.com/avatars/HenryHoffman_128.jpg",
+      "city": "Waterbury",
+      "country": "Spain"
+    },
+    {
+      "id": 22,
+      "email": "Waino.Terry@yahoo.com",
+      "fullName": "Owen Bahringer",
+      "avatar": "https://cdn.fakercloud.com/avatars/gseguin_128.jpg",
+      "city": "Evansville",
+      "country": "Palestinian Territory"
+    },
+    {
+      "id": 23,
+      "email": "Princess.Jerde86@hotmail.com",
+      "fullName": "Delia Schulist",
+      "avatar": "https://cdn.fakercloud.com/avatars/ecommerceil_128.jpg",
+      "city": "Arcadia",
+      "country": "Netherlands"
+    },
+    {
+      "id": 24,
+      "email": "Brody86@hotmail.com",
+      "fullName": "Billie Glover",
+      "avatar": "https://cdn.fakercloud.com/avatars/claudioguglieri_128.jpg",
+      "city": "Lynn",
+      "country": "Papua New Guinea"
+    },
+    {
+      "id": 25,
+      "email": "Susan72@hotmail.com",
+      "fullName": "Mr. Dora Osinski",
+      "avatar": "https://cdn.fakercloud.com/avatars/jonkspr_128.jpg",
+      "city": "Beaumont",
+      "country": "Sudan"
+    }
+  ]
 }
