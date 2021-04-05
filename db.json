@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "fullName": "Carrie Rolfson",
+      "fullName": "Miki Rolfson",
       "avatar": "https://cdn.fakercloud.com/avatars/baumann_alex_128.jpg",
       "email": "reva.stehr@gmail.com",
       "website": "www.ryleigh.net",
@@ -259,32 +259,6 @@
       "zip": "82895-2807",
       "street": "651 Cruickshank Lodge",
       "jobTitle": "Legacy Optimization Executive"
-    },
-    {
-      "id": 21,
-      "fullName": "Rosemary Romaguera",
-      "avatar": "https://cdn.fakercloud.com/avatars/coreyhaggard_128.jpg",
-      "email": "darrel.bahringer85@yahoo.com",
-      "website": "www.emmett.com",
-      "phone": "1-744-436-7126 x269",
-      "state": "Delaware",
-      "city": "Lancaster",
-      "zip": "33048-1666",
-      "street": "44985 Wyman Crescent",
-      "jobTitle": "Corporate Paradigm Analyst"
-    },
-    {
-      "id": 22,
-      "fullName": "Otis Thompson",
-      "avatar": "https://cdn.fakercloud.com/avatars/catadeleon_128.jpg",
-      "email": "marina.swift@hotmail.com",
-      "website": "www.carrie.org",
-      "phone": "901-293-3531",
-      "state": "Illinois",
-      "city": "East Los Angeles",
-      "zip": "97018-4198",
-      "street": "22770 Desmond Mount",
-      "jobTitle": "District Metrics Specialist"
     }
   ]
 }
